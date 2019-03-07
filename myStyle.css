@@ -1,0 +1,17 @@
+
+#main{
+    background:#eee;
+    margin: 30px auto;
+    border-radius: 5px;
+    border: 0px solid;
+    padding: 15px;
+}
+
+html, body {
+    text-align: center;
+}
+
+#ul-center {
+    display: inline-block;
+    text-align: center;
+}
