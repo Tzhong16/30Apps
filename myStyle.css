@@ -1,17 +1,51 @@
 
 #main{
     background:#eee;
-    margin: 30px auto;
+    margin: 30px 15px 30px 15px;
     border-radius: 5px;
     border: 0px solid;
     padding: 15px;
 }
 
+
 html, body {
     text-align: center;
+    background: white;
+    font-family: 'Trebuchet MS', Helveticas, sans-serif;
 }
 
 #ul-center {
     display: inline-block;
+    text-align: left;
+}
+
+#img {
+    max-width: 100%;
+    display: block;
+    margin:auto;
+}
+
+div{
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+#img-caption{
+    margin-top:10px;
+}
+
+#img-div{
+    background:whitesmoke;
+    margin-top: 20px;
+}
+
+#comment{
+    font-style: italic;
     text-align: center;
+}
+
+h4, p {
+   margin:auto;
 }
