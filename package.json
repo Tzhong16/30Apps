@@ -1,0 +1,24 @@
+{
+  "name": "30Apps",
+  "version": "1.0.0",
+  "description": "This is a responsive web design projects - aming to build a tribute page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tzhong16/30Apps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tzhong16/30Apps/issues"
+  },
+  "homepage": "https://github.com/Tzhong16/30Apps#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
